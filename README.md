@@ -1,1 +1,1 @@
-# thank-you-generator
+This project is to help quickly generate Thank You notes to send out.
